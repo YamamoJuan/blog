@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+:root {
+  --theme-green: #064F3B;     /* hijau tua utama */
+  --background: #064F3B;      /* latar belakang hijau tua */
+  --text-green: #157237;      /* teks hijau terang agar kontras */
+}
+
+.text-theme-green {
+  color: var(--text-green);
+}
+
+.bg-theme-green {
+  background-color: var(--theme-green);
+}
+
+.bg-site {
+  background-color: var(--background);
+}
+
+/* ✅ Tambahin ini! */
+.bg-card-green {
+  background-color: #155E4A;
+}
+
+body {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
