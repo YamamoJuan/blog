@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: "blog",
   description: "kasmingBlog",
   icons: {
-    icon: "/favicon.ico",
+    icon: "/kasming-icon.ico",
   }
 };
 
