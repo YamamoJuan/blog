@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "blog",
   description: "kasmingBlog",
-  icon: {
+  icons: {
     icon: "/favicon.ico",
   }
 };
